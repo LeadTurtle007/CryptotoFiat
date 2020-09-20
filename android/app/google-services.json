@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326421192632",
+    "firebase_url": "https://cryptoapp-4a56d.firebaseio.com",
+    "project_id": "cryptoapp-4a56d",
+    "storage_bucket": "cryptoapp-4a56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326421192632:android:d0991260180cf6365fb94d",
+        "android_client_info": {
+          "package_name": "com.leadturtle.cryptoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326421192632-e4f45a6bphjfknk102rr81pks9ek99sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcneiX_wqIWKMCGTGmxM8pHGFEuLhOQ6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326421192632-e4f45a6bphjfknk102rr81pks9ek99sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

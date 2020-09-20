@@ -1,0 +1,2 @@
+https://rest-sandbox.coinapi.io/v1/exchangerate/BTC?apikey=F553A309-94D3-499F-8606-83A4453D3C99
+
